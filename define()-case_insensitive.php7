@@ -1,0 +1,4 @@
+<?php
+	define("GREETING", "Welcome to W3Schools.com!", true); // work on PHP < 8
+	echo greeting;
+?>

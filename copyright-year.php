@@ -1,0 +1,1 @@
+© 2010- <?php date_default_timezone_set('America/Caracas'); echo date("Y") ?>
